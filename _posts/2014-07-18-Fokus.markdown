@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: fokus.png
+alt: fokus
+project-date: Dec 2020
+link: https://apps.apple.com/id/app/fokus-task-tracker/id1544610464
+type: App Store
+tech: SwiftUI, MVVM, Combine 
+description: Fokus is an app to log your tasks or activities. It comes with a set of features to help you manage your tasks. With Fokus, you can 1. Start track a Fokus task (or break time) and stop track when you done, or 2. Set the timer for however minute you like to fires up notification after you finish,3. See your tracked tasks and the time you spent. Stay productive with Fokus !
+---
